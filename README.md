@@ -22,3 +22,11 @@ actions.py
     * "Metadata" repository permissions (read) 
 
     * "Actions" repository permissions (read)
+
+repos.py
+
+- Lists all your public repositories (that you own) and additional metadata for each repo item
+
+- Personal Access Token requires:
+    
+    * "Metadata" repository permissions (read) 
